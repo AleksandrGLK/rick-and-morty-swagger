@@ -1,0 +1,10 @@
+aiohttp==3.8.0
+pytest-aiohttp==0.3.0
+aiohttp-apispec==2.2.1
+aiohttp-cors==0.7.0
+marshmallow-dataclass==8.5.3
+aiohttp-session==2.9.0
+pytest~=6.2.5
+pyyaml==6.0
+marshmallow~=3.14.0
+multidict~=5.2.0
